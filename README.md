@@ -28,7 +28,7 @@ So sind zum Beispiel viele Fenster vergittert oder gar mit Möbeln zugemauert. (
     </td>
     <td>
       <figure>
-        <img src="./Visualitaet_und_Technik_01.jpg" width="350" alt="Visualität und Technik 01 />
+        <img src="./Visualitaet_und_Technik_01.jpg" width="350" alt="Visualität und Technik 01" />
         <figcaption>Bild 03</figcaption>
       </figure>
     </td>
