@@ -22,13 +22,13 @@ So sind zum Beispiel viele Fenster vergittert oder gar mit Möbeln zugemauert. (
   <tr>
     <td>
       <figure>
-        <img src="./Visualitaet_und_Technik_00.jpg" width="350" alt="Visualität und Technik 00" />
+        <img src="./Visualitaet_und_Technik_00.jpg" width="350" alt="Visualität und Technik 00" /><br>
         <figcaption>Bild 02</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="./Visualitaet_und_Technik_01.jpg" width="350" alt="Visualität und Technik 01" />
+        <img src="./Visualitaet_und_Technik_01.jpg" width="350" alt="Visualität und Technik 01" /><br>
         <figcaption>Bild 03</figcaption>
       </figure>
     </td>
@@ -36,13 +36,13 @@ So sind zum Beispiel viele Fenster vergittert oder gar mit Möbeln zugemauert. (
   <tr>
     <td>
       <figure>
-        <img src="./Visualitaet_und_Technik_02.jpg" width="350" alt="Visualität und Technik 02" />
+        <img src="./Visualitaet_und_Technik_02.jpg" width="350" alt="Visualität und Technik 02" /><br>
         <figcaption>Bild 03</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="./Visualitaet_und_Technik_03.jpg" width="350" alt="Visualität und Technik 03" />
+        <img src="./Visualitaet_und_Technik_03.jpg" width="350" alt="Visualität und Technik 03" /><br>
         <figcaption>Bild 05: Licht fällt in Pfeilrichtung auf NPC oder Gegenstand und wirft auf Wand Schatten</figcaption>
       </figure>
     </td>
